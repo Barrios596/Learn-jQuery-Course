@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# jquery examples: https://github.com/shaunwa/jquery-examples
+jquery-examples
